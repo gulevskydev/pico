@@ -1,4 +1,4 @@
-# Crypto Warmup 1
+# Warmed Up
 
 Points: 50
 
