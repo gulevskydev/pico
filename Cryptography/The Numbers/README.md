@@ -1,6 +1,6 @@
-# Crypto Warmup 1
+# The Numbers
 
-Points: 75
+Points: 50
 
 ## Category
 
