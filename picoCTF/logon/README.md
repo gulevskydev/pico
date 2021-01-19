@@ -85,15 +85,15 @@ $(document).ready(function(){
 </html>
 ```
 
-Let's try to login with random name and password:
-![screenshot-1](./1.jpg)
+2. Let's try to login with random name and password:
+   ![screenshot-1](./1.jpg)
 
-Now let's check cookies:
-![screenshot-1](./2.jpg)
+3. Now let's check cookies:
+   ![screenshot-1](./2.jpg)
 
-Change admin: False to admin: True and reload the page:
-![screenshot-1](./3.jpg)
+4. Change admin: False to admin: True and reload the page:
+   ![screenshot-1](./3.jpg)
 
 ### Flag
 
-`picoCTF{5tRIng5_1T_827aee91}`
+`picoCTF{th3_c0nsp1r4cy_l1v3s_d1c24fef}`
