@@ -2,11 +2,11 @@
 
 > What is 0x3D (base 16) in decimal (base 10)?
 
-### Hint
+## Hints:
 
 > Submit your answer in our flag format. For example, if your answer was '22', you would submit 'picoCTF{22}' as the flag.
 
-## Solution
+## Solution:
 
 The hexadecimal number system has 16 symbols (base 16) instead of the decimal system which has 10 numbers (base 10). The hex symbols are 0 1 2 3 4 5 6 7 8 9 A B C D E F where A=10, B=11, C=12. D=13, E=14, and F=15.
 

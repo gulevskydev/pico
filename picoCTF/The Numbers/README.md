@@ -2,11 +2,11 @@
 
 > The numbers... what do they mean?
 
-### Hint
+## Hints:
 
 > The flag is in the format PICOCTF{}
 
-## Solution
+## Solution:
 
 Just simply decode them alphabetically
 

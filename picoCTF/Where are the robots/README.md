@@ -2,11 +2,11 @@
 
 > Can you find the robots? https://jupiter.challenges.picoctf.org/problem/36474/ (link) or http://jupiter.challenges.picoctf.org:36474
 
-### Hint
+## Hints:
 
 > What part of the website could tell you where the creator doesn't want you to look?
 
-## Solution
+## Solution:
 
 1. Go to /robots.txt
 2. Go to /1bb4c.html

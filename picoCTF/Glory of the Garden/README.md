@@ -2,11 +2,11 @@
 
 > This garden contains more than it seems.
 
-### Hint
+## Hint:
 
 > What is a hex editor?
 
-## Solution
+## Solution:
 
 Load image in hex editor like that (https://hexed.it/) and search for picoCTF flag ;)
 

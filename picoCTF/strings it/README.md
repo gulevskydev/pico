@@ -2,11 +2,11 @@
 
 > Can you find the flag in file without running it?
 
-### Hint
+## Hints:
 
 > strings.txt
 
-## Solution
+## Solution:
 
 Search in file :)
 
