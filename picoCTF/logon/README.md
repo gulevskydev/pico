@@ -86,13 +86,13 @@ $(document).ready(function(){
 ```
 
 Let's try to login with random name and password:
-![screenshot-1](./1.png)
+![screenshot-1](./1.jpg)
 
 Now let's check cookies:
-![screenshot-1](./2.png)
+![screenshot-1](./2.jpg)
 
 Change admin: False to admin: True and reload the page:
-![screenshot-1](./3.png)
+![screenshot-1](./3.jpg)
 
 ### Flag
 
