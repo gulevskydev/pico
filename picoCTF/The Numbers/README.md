@@ -1,12 +1,4 @@
-# The Numbers
-
-Points: 50
-
-## Category
-
-Cryptography
-
-## Question
+# Problem
 
 > The numbers... what do they mean?
 

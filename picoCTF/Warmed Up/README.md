@@ -1,12 +1,4 @@
-# Warmed Up
-
-Points: 50
-
-## Category
-
-General skills
-
-## Question
+# Problem
 
 > What is 0x3D (base 16) in decimal (base 10)?
 

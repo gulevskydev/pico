@@ -1,12 +1,4 @@
-# Glory of the Garden
-
-Points: 50
-
-## Category
-
-Forensics
-
-## Question
+# Problem
 
 > This garden contains more than it seems.
 

@@ -1,12 +1,4 @@
-# 2Warm
-
-Points: 100
-
-## Category
-
-General skills
-
-## Question
+# Problem
 
 > Can you find the flag in file without running it?
 

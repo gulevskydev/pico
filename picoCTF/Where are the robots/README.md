@@ -1,12 +1,4 @@
-# Where are the robots
-
-Points: 100
-
-## Category
-
-Web Exploitation
-
-## Question
+# Problem
 
 > Can you find the robots? https://jupiter.challenges.picoctf.org/problem/36474/ (link) or http://jupiter.challenges.picoctf.org:36474
 
