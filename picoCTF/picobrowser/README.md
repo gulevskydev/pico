@@ -67,7 +67,3 @@
 ### Flag
 
 `picoCTF{p1c0_s3cr3t_ag3nt_e9b160d0}`
-
-```
-
-```
