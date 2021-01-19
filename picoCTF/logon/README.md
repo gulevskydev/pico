@@ -89,10 +89,10 @@ $(document).ready(function(){
    ![screenshot-1](./1.jpg)
 
 3. Now let's check cookies:
-   ![screenshot-1](./2.jpg)
+   ![screenshot-2](./2.jpg)
 
 4. Change admin: False to admin: True and reload the page:
-   ![screenshot-1](./3.jpg)
+   ![screenshot-3](./3.jpg)
 
 ### Flag
 
